@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="693" started-at="2019-10-29T09:07:40Z" finished-at="2019-10-29T09:07:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="693" started-at="2019-10-29T09:07:40Z" finished-at="2019-10-29T09:07:41Z">
+      <class name="Filetestcase.Testcase">
+        <test-method status="PASS" signature="BeforeClass()[pri:0, instance:Filetestcase.Testcase@1283bb96]" name="BeforeClass" is-config="true" duration-ms="653" started-at="2019-10-29T14:37:40Z" finished-at="2019-10-29T14:37:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method status="PASS" signature="BrforeTest(java.lang.reflect.Method)[pri:0, instance:Filetestcase.Testcase@1283bb96]" name="BrforeTest" is-config="true" duration-ms="22" started-at="2019-10-29T14:37:41Z" finished-at="2019-10-29T14:37:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Filetestcase.Testcase.Address()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrforeTest -->
+        <test-method status="PASS" signature="Address()[pri:0, instance:Filetestcase.Testcase@1283bb96]" name="Address" duration-ms="1" started-at="2019-10-29T14:37:41Z" finished-at="2019-10-29T14:37:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Address -->
+        <test-method status="PASS" signature="BrforeTest(java.lang.reflect.Method)[pri:0, instance:Filetestcase.Testcase@1283bb96]" name="BrforeTest" is-config="true" duration-ms="1" started-at="2019-10-29T14:37:41Z" finished-at="2019-10-29T14:37:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Filetestcase.Testcase.Book()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrforeTest -->
+        <test-method status="PASS" signature="Book()[pri:0, instance:Filetestcase.Testcase@1283bb96]" name="Book" duration-ms="0" started-at="2019-10-29T14:37:41Z" finished-at="2019-10-29T14:37:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Book -->
+        <test-method status="PASS" signature="BrforeTest(java.lang.reflect.Method)[pri:0, instance:Filetestcase.Testcase@1283bb96]" name="BrforeTest" is-config="true" duration-ms="1" started-at="2019-10-29T14:37:41Z" finished-at="2019-10-29T14:37:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Filetestcase.Testcase.Desktop()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrforeTest -->
+        <test-method status="PASS" signature="Desktop()[pri:0, instance:Filetestcase.Testcase@1283bb96]" name="Desktop" duration-ms="0" started-at="2019-10-29T14:37:41Z" finished-at="2019-10-29T14:37:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Desktop -->
+        <test-method status="PASS" signature="BrforeTest(java.lang.reflect.Method)[pri:0, instance:Filetestcase.Testcase@1283bb96]" name="BrforeTest" is-config="true" duration-ms="1" started-at="2019-10-29T14:37:41Z" finished-at="2019-10-29T14:37:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Filetestcase.Testcase.Login()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrforeTest -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Filetestcase.Testcase@1283bb96]" name="Login" duration-ms="0" started-at="2019-10-29T14:37:41Z" finished-at="2019-10-29T14:37:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- Filetestcase.Testcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
